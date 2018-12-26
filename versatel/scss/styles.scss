@@ -1,0 +1,29 @@
+$color: #cecece;
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#showcase {
+	width: auto;
+	overflow: hidden;
+	position: relative;
+	display: inline-block;
+}
+
+.disabled {
+	color: $color !important;
+}
+
+.slide {
+	display: none;
+	opacity: 0;
+	position: relative;
+}
+
+.active {
+	display: block;
+	opacity: 1;
+	position: relative;
+}
