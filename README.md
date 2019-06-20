@@ -110,7 +110,7 @@ You can pass these options as key/value object to `controls` through the `userCo
 
 ## Demo
 
-See the demo on <a href="https://jsfiddle.net/5sa8th1f/1/">JSFiddle</a>.
+See the demo on <a href="https://jsfiddle.net/sak9uydq/">JSFiddle</a>.
 
 ## Browser Support
 
