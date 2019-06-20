@@ -108,6 +108,10 @@ You can pass these options as key/value object to `controls` through the `userCo
   </tr>
 </table>
 
+## Demo
+
+See the demo on <a href="https://jsfiddle.net/5sa8th1f/1/">JSFiddle</a>.
+
 ## Browser Support
 
 *Supported Browsers* : Chrome, Firefox, Safari, Opera, Edge, IE9+.
